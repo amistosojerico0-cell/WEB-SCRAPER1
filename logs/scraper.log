@@ -1,0 +1,30 @@
+[2026-01-29 00:45:01] Starting scraper...
+[2026-01-29 00:45:16] Opened URL: https://example.com
+[2026-01-29 00:45:27] Error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10c8543
+	0x10c8584
+	0xebb4e0
+	0xeaa46e
+	0xec8fc8
+	0xf2f05c
+	0xf44e59
+	0xf27fb6
+	0xef96f9
+	0xefa4b4
+	0x131d034
+	0x13182c9
+	0x1336460
+	0x10e1a68
+	0x10e988d
+	0x10d0df8
+	0x10d0fc2
+	0x10bab3a
+	0x75e95d49
+	0x770ed5db
+	0x770ed561
+
+[2026-01-29 00:45:30] Browser closed.
